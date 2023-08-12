@@ -1,0 +1,181 @@
+khoso
+12
+male
+19
+120/90
+1600
+Zohaib
+Wed Jul 20 12:25:29 2022
+
+mairaj
+12
+male
+12
+120/40
+1600
+Zohaib
+Wed Jul 20 01:58:03 2022
+
+haider
+12
+male
+12
+120/40
+1600
+Zohaib
+Wed Jul 20 19:58:03 2022
+
+
+ali
+AB
+male
+12
+120/80
+1200
+Osama
+Fri Jul 22 22:11:24 2022
+
+shabbir
+PD-24
+male
+19
+120/80
+1600
+Zohaib
+Sat Jul 23 15:59:23 2022
+
+hamdani
+12
+male
+19
+190
+1600
+Zohaib
+Sat Jul 23 16:06:02 2022
+
+l
+l
+male
+12
+12
+1600
+Zohaib
+Sat Jul 23 20:07:46 2022
+
+chaudhary_sumair
+12
+Male
+19
+120/80
+1200
+Mairaj
+Sat Jul 23 23:09:30 2022
+
+mairajKhoso
+abc
+male
+19
+120/40
+1200
+Osama
+Tue Jul 26 21:57:06 2022
+
+mairaj
+12
+khoso
+12
+12
+1000
+Ali
+Tue Jul 26 22:04:24 2022
+
+taimoor
+abc
+Male
+19
+120/80
+1200
+Mairaj
+Wed Jul 27 20:18:02 2022
+
+Asad
+abc_123
+male
+19
+120/40
+1600
+Zohaib
+Fri Aug 05 20:29:12 2022
+
+mairaj_ahmed
+ABC_123
+Male
+19
+120/80
+1600
+Zohaib
+Sat Aug 06 17:22:13 2022
+
+Ahmed
+ABC_1234
+male
+120
+/80
+1600
+Zohaib
+Sat Aug 06 17:38:01 2022
+
+adnan
+abc
+male
+19
+120/40
+1000
+Ali
+Sat Aug 06 17:44:40 2022
+
+mairajahmedkhoso
+avx-!""!
+male
+19
+120/40
+1000
+Muhammad_shafique
+Tue Aug 23 21:21:21 2022
+
+jamil
+abc_123
+male
+54
+120/80
+1200
+Mairaj
+Thu Aug 25 20:10:27 2022
+
+ll
+safd
+male
+19
+120/40
+1000
+Muhammad_shafique
+Fri Sep 02 21:34:48 2022
+
+jasfd
+f
+af
+12
+120/2
+1000
+Muhammad_shafique
+Wed Jan 18 21:07:30 2023
+
+mairajahmedkhoso
+1cd
+male
+19
+120/40
+1600
+Zohaib
+Thu Jan 19 13:13:21 2023
+

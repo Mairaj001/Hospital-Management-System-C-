@@ -1,0 +1,9 @@
+Sr.No      day              timings
+
+1.        Sunday            12:30 pm to 4:00 pm   
+2.        Monday            10:00 am to 1:00 pm
+3.        Tuesday           03:00 pm to 6:00 pm 
+4.        Wednesday         11:00 am to 5:00 pm 
+5.        Thursday          09:00 am to 1:00 pm
+6.        Friday            -------------------
+7.        Saturday          4:00  pm to 5:00 pm
